@@ -20,8 +20,6 @@ Convection-Diffusion IBVP/
 ### report/
 - **convection_diffusion_report.pdf**  
   Polished, paginated project write-up including introduction, derivations, results, and conclusions.
-- **convection_diffusion_report.md**  
-  Markdown source of the above PDF for easy editing.
 
 ## Getting Started
 
