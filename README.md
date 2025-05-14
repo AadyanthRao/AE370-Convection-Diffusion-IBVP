@@ -9,8 +9,8 @@ Convection-Diffusion IBVP/
 ├── notebooks/                ← Jupyter notebook with all code + explanatory Markdown
 │   └── convection_diffusion_analysis.ipynb
 └── report/                   ← Final written report
-    ├── convection_diffusion_report.pdf
-    └── convection_diffusion_report.md
+    └── convection_diffusion_report.pdf
+    
 ```
 
 ### notebooks/
